@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @francescoplutino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning new things and meet intresting peapole 
+- 🌱 I’m currently learning Computer Engeneering
 - 📫 How to reach me francescoplutino@gmail.com
 
 <!---
