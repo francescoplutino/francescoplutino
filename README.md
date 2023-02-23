@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescoplutino
 - 👀 I’m interested in learning new things and meet intresting peapole 
-- 🌱 I’m currently learning Computer Engeneering
+- 🌱 Computer Engeneer
 - 📫 How to reach me francescoplutino@gmail.com
 
 <!---
